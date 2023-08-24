@@ -1,0 +1,126 @@
+.groupImage {
+    width: 448.0004577636719px;
+height: 197.20375061035156px;
+top: 414px;
+left: 39px;
+position: relative;
+border: 1.89px solid rgba(61, 139, 151, 1)
+
+}
+.question {
+   
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+
+
+
+
+}
+
+.rectangle {
+    width: 97px;
+height: 6px;
+
+
+border-radius: 4px;
+background: rgba(255, 255, 255, 0.25);
+
+ 
+
+}
+
+.rectangleColor{
+    width: 98px;
+height: 6px;
+
+
+border-radius: 4px;
+background: #42E6E9;
+position: relative;
+
+}
+.questionData{
+    font-family: Poppins;
+font-size: 22px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0.02em;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+
+width: 652px;
+height: 119px;
+
+
+}
+
+.rectangleButton1 {
+    width: 438px;
+height: 64px;
+border-radius: 15px;
+border: 0.800000011920929px;
+background-image: linear-gradient(0deg, #334259, #334259);
+position: relative;
+border: 0.8px solid #334259;
+margin-bottom : 24px;
+
+}
+.textt{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+    padding-top: 7px;
+    
+
+
+}
+
+.rectangleButton2 {
+    width: 438px;
+height: 64px;
+border-radius: 15px;
+border: 0.800000011920929px;
+background-image: linear-gradient(0deg, #ECFCFD, #ECFCFD),linear-gradient(0deg, #334259, #334259);
+margin-bottom : 24px;
+border: 0.8px solid #334259;
+font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+
+
+}
+
+.rectangleButton3 {
+    width: 438px;
+    height: 64px;
+    border-radius: 15px;
+    background: rgba(38, 209, 212, 1)
+
+}
+.texttt{
+    font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(0, 0, 0, 1);
+padding-top: 7px;
+
+}
+
+
+
+
